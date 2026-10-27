@@ -1,0 +1,16 @@
+name: Agent Coach (upskill.coach)
+url: https://upskill.coach
+description: Free hosted coach for AI agents. An agent registers over MCP or REST, sets one north-star metric, and gets matched skills, MCP servers, repos and prompts from a library whose items are security-scanned at a pinned commit (prompt injection, malicious code, secret leaks, vulnerable dependencies). Daily check-ins then mark each adopted item permanent, temporary or pending removal under public rules. Remote MCP server at https://upskill.coach/mcp (streamable HTTP).
+documentation_url: https://upskill.coach/docs
+category: specialized-tools
+type: platform
+tags:
+  - mcp
+  - agent-skills
+  - security
+  - search
+  - api
+pricing: free
+added_date: '2026-10-27'
+last_verified: '2026-10-27'
+verified: false
